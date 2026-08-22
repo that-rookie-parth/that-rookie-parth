@@ -51,10 +51,10 @@
 
 **I care more about whether it works than whether it demos. Say hello if you build the same way.**
 
-<a href="https://linkedin.com/in/kulshreshtha-parth"><img src="./assets/icon-linkedin.svg?v=2" width="18" height="18" align="middle" alt=""> LinkedIn</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="mailto:kulshreshthaparth@gmail.com"><img src="./assets/icon-email.svg?v=2" width="18" height="18" align="middle" alt=""> Email</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/that-rookie-parth?tab=followers"><img src="./assets/icon-github.svg?v=2" width="18" height="18" align="middle" alt=""> Follow on GitHub</a>
+<a href="https://linkedin.com/in/kulshreshtha-parth"><img src="./assets/icon-linkedin.svg?v=2" width="28" height="28" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:kulshreshthaparth@gmail.com"><img src="./assets/icon-email.svg?v=2" width="28" height="28" alt="Email"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/that-rookie-parth?tab=followers"><img src="./assets/icon-github.svg?v=2" width="28" height="28" alt="Follow on GitHub"></a>
 
 </div>
