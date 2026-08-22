@@ -55,6 +55,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:kulshreshthaparth@gmail.com"><img src="./assets/icon-email.svg?v=2" width="28" height="28" alt="Email"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/that-rookie-parth?tab=followers"><img src="./assets/icon-github.svg?v=2" width="28" height="28" alt="Follow on GitHub"></a>
+<a href="https://github.com/parthkulshreshtha?tab=followers"><img src="./assets/icon-github.svg?v=2" width="28" height="28" alt="Follow on GitHub"></a>
 
 </div>

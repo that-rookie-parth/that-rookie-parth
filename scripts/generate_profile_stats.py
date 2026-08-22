@@ -22,7 +22,7 @@ from xml.sax.saxutils import escape
 GITHUB_GRAPHQL_URL = "https://api.github.com/graphql"
 GITHUB_REST_URL = "https://api.github.com"
 API_VERSION = "2026-03-10"
-DEFAULT_USERNAME = "that-rookie-parth"
+DEFAULT_USERNAME = "parthkulshreshtha"
 DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent.parent / "assets"
 
 # GitHub Linguist already excludes files marked generated or vendored. These
