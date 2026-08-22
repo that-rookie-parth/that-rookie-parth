@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-labelledby="title description" fill="#1A1526">
+  <title id="title">Technology stack</title>
+  <desc id="description">Technologies grouped into languages, language model and agent frameworks, evaluation, retrieval, and serving.</desc>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.label{font-size:10px;letter-spacing:3px;fill:#5F5677}.chip{font-size:12px;fill:#1A1526}.pill{fill:none;stroke:#B9ABDC}</style>
+  <rect x="1" y="1" width="858" height="298" rx="12" fill="#FFFFFF" stroke="#DED5F2" stroke-width="2"/>
+  <text x="24" y="38" class="mono" font-size="12" fill="#5F5677">20 tools across 5 areas</text>
+
+  <text x="24" y="83" class="mono label">LANGUAGES</text>
+  <rect x="190" y="64" width="85" height="28" rx="14" class="pill"/><circle cx="206" cy="78" r="3.5" fill="#3776AB"/><text x="218" y="83" class="mono chip">Python</text>
+  <rect x="283" y="64" width="114" height="28" rx="14" class="pill"/><circle cx="299" cy="78" r="3.5" fill="#004C67"/><text x="311" y="83" class="mono chip">TypeScript</text>
+  <rect x="405" y="64" width="114" height="28" rx="14" class="pill"/><circle cx="421" cy="78" r="3.5" fill="#B7472A"/><text x="433" y="83" class="mono chip">PowerShell</text>
+  <rect x="527" y="64" width="114" height="28" rx="14" class="pill"/><circle cx="543" cy="78" r="3.5" fill="#B08900"/><text x="555" y="83" class="mono chip">JavaScript</text>
+
+  <text x="24" y="129" class="mono label">LLM &amp; AGENTS</text>
+  <rect x="190" y="110" width="107" height="28" rx="14" class="pill"/><circle cx="206" cy="124" r="3.5" fill="#155445"/><text x="218" y="129" class="mono chip">LangChain</text>
+  <rect x="305" y="110" width="107" height="28" rx="14" class="pill"/><circle cx="321" cy="124" r="3.5" fill="#6D28D9"/><text x="333" y="129" class="mono chip">LangGraph</text>
+  <rect x="420" y="110" width="85" height="28" rx="14" class="pill"/><circle cx="436" cy="124" r="3.5" fill="#9A3412"/><text x="448" y="129" class="mono chip">CrewAI</text>
+  <rect x="513" y="110" width="64" height="28" rx="14" class="pill"/><circle cx="529" cy="124" r="3.5" fill="#5A44B0"/><text x="541" y="129" class="mono chip">MCP</text>
+
+  <text x="24" y="175" class="mono label">EVALUATION</text>
+  <rect x="190" y="156" width="78" height="28" rx="14" class="pill"/><circle cx="206" cy="170" r="3.5" fill="#92400E"/><text x="218" y="175" class="mono chip">Ragas</text>
+  <rect x="276" y="156" width="136" height="28" rx="14" class="pill"/><circle cx="292" cy="170" r="3.5" fill="#115E59"/><text x="304" y="175" class="mono chip">Inspect Evals</text>
+  <rect x="420" y="156" width="157" height="28" rx="14" class="pill"/><circle cx="436" cy="170" r="3.5" fill="#854D0E"/><text x="448" y="175" class="mono chip">Weights &amp; Biases</text>
+  <rect x="585" y="156" width="85" height="28" rx="14" class="pill"/><circle cx="601" cy="170" r="3.5" fill="#075985"/><text x="613" y="175" class="mono chip">Pytest</text>
+
+  <text x="24" y="221" class="mono label">RETRIEVAL</text>
+  <rect x="190" y="202" width="100" height="28" rx="14" class="pill"/><circle cx="206" cy="216" r="3.5" fill="#1D6B5C"/><text x="218" y="221" class="mono chip">Pinecone</text>
+  <rect x="298" y="202" width="78" height="28" rx="14" class="pill"/><circle cx="314" cy="216" r="3.5" fill="#2F4A88"/><text x="326" y="221" class="mono chip">FAISS</text>
+  <rect x="384" y="202" width="193" height="28" rx="14" class="pill"/><circle cx="400" cy="216" r="3.5" fill="#85305F"/><text x="412" y="221" class="mono chip">sentence-transformers</text>
+  <rect x="585" y="202" width="136" height="28" rx="14" class="pill"/><circle cx="601" cy="216" r="3.5" fill="#316129"/><text x="613" y="221" class="mono chip">Elasticsearch</text>
+
+  <text x="24" y="267" class="mono label">SERVING</text>
+  <rect x="190" y="248" width="92" height="28" rx="14" class="pill"/><circle cx="206" cy="262" r="3.5" fill="#00796B"/><text x="218" y="267" class="mono chip">FastAPI</text>
+  <rect x="290" y="248" width="71" height="28" rx="14" class="pill"/><circle cx="306" cy="262" r="3.5" fill="#C93652"/><text x="318" y="267" class="mono chip">vLLM</text>
+  <rect x="369" y="248" width="85" height="28" rx="14" class="pill"/><circle cx="385" cy="262" r="3.5" fill="#1478B8"/><text x="397" y="267" class="mono chip">Docker</text>
+  <rect x="462" y="248" width="107" height="28" rx="14" class="pill"/><circle cx="478" cy="262" r="3.5" fill="#084C86"/><text x="490" y="267" class="mono chip">Azure AKS</text>
+
+</svg>

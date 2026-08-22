@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280" role="img" aria-labelledby="title description" fill="#1A1526">
+  <title id="title">Terminal identity</title>
+  <desc id="description">Terminal commands show Parth's identity and working principles.</desc>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .c0{transform:translateX(90px);animation:r0 .5s steps(8) .35s backwards}
+    .c1{transform:translateX(358px);animation:r1 1s steps(40) .95s backwards}
+    .c2{transform:translateX(660px);animation:r2 1.9s steps(76) 2.1s backwards}
+    .c3{transform:translateX(185px);animation:r3 .75s steps(22) 4.1s backwards}
+    .c4{transform:translateX(232px);animation:r4 .63s steps(25) 4.95s backwards}
+    .c5{transform:translateX(266px);animation:r5 .73s steps(29) 5.68s backwards}
+    .c6{transform:translateX(308px);animation:r6 .85s steps(34) 6.51s backwards}
+    @keyframes r0{from{transform:translateX(0)}}
+    @keyframes r1{from{transform:translateX(0)}}
+    @keyframes r2{from{transform:translateX(0)}}
+    @keyframes r3{from{transform:translateX(0)}}
+    @keyframes r4{from{transform:translateX(0)}}
+    @keyframes r5{from{transform:translateX(0)}}
+    @keyframes r6{from{transform:translateX(0)}}
+    .cursor{animation:blink 1.05s steps(1) 7.5s infinite}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.c0,.c1,.c2,.c3,.c4,.c5,.c6,.cursor{animation:none}}
+  </style>
+  <defs><clipPath id="panel"><rect x="16" y="44" width="828" height="220" rx="8"/></clipPath></defs>
+  <rect x="1" y="1" width="858" height="278" rx="12" fill="#FFFFFF" stroke="#DED5F2" stroke-width="2"/>
+  <circle cx="28" cy="26" r="5" fill="#FF5F57"/>
+  <circle cx="46" cy="26" r="5" fill="#FEBC2E"/>
+  <circle cx="64" cy="26" r="5" fill="#28C840"/>
+  <text x="430" y="30" text-anchor="middle" class="mono" font-size="12" fill="#5F5677">parth@profile: ~</text>
+  <rect x="16" y="44" width="828" height="220" rx="8" fill="#F7F4FE"/>
+  <text x="36" y="73" class="mono" font-size="14" font-weight="700" fill="#1F7F58">$</text>
+  <text x="53" y="73" class="mono" font-size="14" font-weight="700">whoami</text>
+  <text x="36" y="101" class="mono" font-size="14" fill="#5F5677">Parth Kulshreshtha · AI Systems Engineer</text>
+  <text x="36" y="125" class="mono" font-size="14" fill="#5F5677">building evaluation harnesses, agent systems, and the services that run them</text>
+  <text x="36" y="158" class="mono" font-size="14" font-weight="700" fill="#1F7F58">$</text>
+  <text x="53" y="158" class="mono" font-size="14" font-weight="700">cat principles.txt</text>
+  <text x="36" y="186" class="mono" font-size="14" fill="#5F5677">the eval is the hard part</text>
+  <text x="36" y="210" class="mono" font-size="14" fill="#5F5677">maintainable beats impressive</text>
+  <text x="36" y="234" class="mono" font-size="14" fill="#5F5677">the model never gets the last word</text>
+  <text x="36" y="258" class="mono" font-size="14" font-weight="700" fill="#1F7F58">$</text>
+  <rect x="53" y="246" width="8" height="14" fill="#6742C0" class="cursor"/>
+  <g clip-path="url(#panel)">
+    <rect x="34" y="57" width="90" height="21" fill="#F7F4FE" class="c0"/>
+    <rect x="34" y="85" width="358" height="21" fill="#F7F4FE" class="c1"/>
+    <rect x="34" y="109" width="660" height="21" fill="#F7F4FE" class="c2"/>
+    <rect x="34" y="142" width="185" height="21" fill="#F7F4FE" class="c3"/>
+    <rect x="34" y="170" width="232" height="21" fill="#F7F4FE" class="c4"/>
+    <rect x="34" y="194" width="266" height="21" fill="#F7F4FE" class="c5"/>
+    <rect x="34" y="218" width="308" height="21" fill="#F7F4FE" class="c6"/>
+  </g>
+</svg>
